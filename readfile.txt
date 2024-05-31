@@ -1,0 +1,41 @@
+Project Title : E-commerce Food Platform
+
+Date of Start : 27-05-2024
+
+Day-1: 27-05-2024
+
+Started with a Login Page 
+
+Login page as header file -> login.hpp
+Newly Learned concept : Header guards.
+Reading and writing into files .
+Files used as permanent storage users.txt to save the phone numbers and the passwords.
+
+Day-2: 28-05-2024
+
+Started with the menu list of hotels in Chennai
+figlet
+Done with accessing each and every element from the menu csv file
+
+Day-3: 29-05-2024
+
+A slight change in plan
+About to implement graph data structure to map each order and pickup hotels as the vertices and apply the required algorithm to ensure fastest delivery.
+graph implementation was a very big challenge since I wanted to add each vertex with all details.
+Created Hotel graph.
+
+Day-4: 30-05-2024
+
+Segmentation fault in implementation of graphs from map data.
+Latitude and Longitude data collection
+menu.csv file improvisation
+including 150 entries
+
+Day-5: 31-05-2024
+
+Segmentation Fault on adding more values to the menu.csv and Hotel.csv file
+Menu.csv file converted to 350 entries of dishes.
+
+Date of Documentation : 31-05-2024
+
+End of Project : 31-05-2024

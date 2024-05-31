@@ -1,0 +1,351 @@
+PID,Hotel ID,Item Name,Description,Cost
+1,1,Tandoori Chicken,Marinated chicken cooked in a tandoor oven,350
+2,1,Butter Chicken,Tender chicken cooked in a creamy tomato sauce,400
+3,1,Paneer Tikka,Grilled cubes of paneer marinated in spices,300
+4,1,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,450
+5,1,Gulab Jamun,Deep-fried milk solids soaked in sugar syrup,150
+6,1,Masala Dosa,Crispy crepe filled with spiced potato filling,200
+7,1,Hyderabadi Biryani,Traditional biryani with aromatic spices,400
+8,1,Mutton Rogan Josh,Tender mutton cooked in a rich gravy,500
+9,1,Chole Bhature,Spiced chickpea curry served with fried bread,250
+10,1,Palak Paneer,Paneer cubes in a creamy spinach gravy,350
+11,2,Chettinad Chicken,Spicy chicken curry with Chettinad spices,400
+12,2,Murgh Malai Kebab,Creamy chicken kebabs marinated in spices,350
+13,2,Prawn Masala,Stir-fried prawns in a spicy masala gravy,500
+14,2,Podi Dosa,Dosa coated with a spicy lentil powder,250
+15,2,Parotta and Salna,Layered flatbread served with spicy curry,300
+16,2,Andhra Chicken Curry,Chicken curry with Andhra-style spices,400
+17,2,Mutton Biryani,Flavorful rice cooked with tender mutton pieces,450
+18,2,Palak Chicken,Creamy chicken curry with spinach,350
+19,2,Gobi Manchurian,Crispy cauliflower florets in a tangy sauce,300
+20,2,Coconut Payasam,Rice pudding with coconut milk and jaggery,200
+21,3,Chicken 65,Spicy deep-fried chicken,300
+22,3,Fish Curry,Fresh fish cooked in tangy gravy,400
+23,3,Vegetable Biryani,Fragrant rice cooked with mixed vegetables,350
+24,3,Rasam,South Indian soup with tamarind and spices,100
+25,3,Veg Pulao,Fragrant rice cooked with vegetables,250
+26,3,Chicken Kebab,Grilled chicken skewers marinated in spices,350
+27,3,Butter Naan,Soft and fluffy Indian bread,50
+28,3,Dahi Vada,Deep-fried lentil dumplings soaked in yogurt,150
+29,3,Veg Manchurian,Fried vegetable balls in a tangy sauce,200
+30,3,Carrot Halwa,Sweet dessert made from carrots,200
+31,4,Pizza Margherita,Classic pizza with tomato mozzarella and basil,300
+32,4,Spaghetti Carbonara,Pasta with creamy egg sauce and pancetta,350
+33,4,Caesar Salad,Crisp romaine lettuce with croutons and Caesar dressing,250
+34,4,Lasagna,Layered pasta dish with meat and cheese,400
+35,4,Tiramisu,Italian dessert with coffee-soaked ladyfingers and mascarpone,200
+36,4,Caprese Salad,Fresh tomatoes mozzarella and basil drizzled with olive oil,200
+37,4,Penne Arrabiata,Pasta with spicy tomato sauce,300
+38,4,Bruschetta,Toasted bread topped with tomatoes basil and garlic,150
+39,4,Calzone,Folded pizza stuffed with cheese and other fillings,350
+40,4,Gelato,Italian ice cream in various flavors,150
+41,5,Hot and Sour Soup,Spicy and tangy Chinese soup,200
+42,5,Chicken Chow Mein,Stir-fried noodles with chicken and vegetables,250
+43,5,Chilli Chicken,Spicy chicken stir-fry with peppers and onions,300
+44,5,Szechuan Prawns,Prawns cooked in spicy Szechuan sauce,400
+45,5,Vegetable Spring Rolls,Crispy fried rolls filled with vegetables,150
+46,5,Peking Duck,Classic Chinese dish of roasted duck with pancakes,500
+47,5,Mapo Tofu,Spicy tofu and minced meat in a flavorful sauce,250
+48,5,Mongolian Beef,Tender beef stir-fried with vegetables in a savory sauce,350
+49,5,Fried Rice,Stir-fried rice with vegetables and eggs,200
+50,5,Honey Walnut Shrimp,Crispy shrimp tossed in a sweet and creamy sauce,450
+51,6,Grilled Salmon,Fresh salmon fillet grilled to perfection,400
+52,6,Beef Tenderloin Steak,Juicy beef steak served with mashed potatoes,500
+53,6,Garden Salad,Fresh mixed greens with assorted vegetables,200
+54,6,Truffle Fries,Crispy fries seasoned with truffle oil and parmesan,250
+55,6,Cheese Platter,Assorted cheeses served with crackers and fruits,300
+56,6,Chocolate Lava Cake,Rich chocolate cake with a molten center,200
+57,6,Tiramisu,Classic Italian dessert with layers of coffee-soaked ladyfingers,250
+58,6,Chicken Caesar Wrap,Grilled chicken with Caesar dressing wrapped in a tortilla,300
+59,6,Spinach and Mushroom Risotto,Creamy risotto with sautéed spinach and mushrooms,350
+60,6,Bruschetta,Toasted bread topped with tomatoes basil and garlic,150
+61,7,Salmon Avocado Roll,Fresh salmon and avocado wrapped in sushi rice and seaweed,300
+62,7,Chicken Teriyaki,Grilled chicken glazed with teriyaki sauce,350
+63,7,Shrimp Tempura,Crispy battered shrimp served with dipping sauce,400
+64,7,Vegetable Stir-Fry,Assorted vegetables stir-fried in a savory sauce,250
+65,7,Beef Ramen,Japanese noodle soup with tender beef slices,300
+66,7,Tofu Curry,Soft tofu in a rich and spicy curry sauce,200
+67,7,Seafood Paella,Spanish rice dish with assorted seafood,450
+68,7,Mediterranean Salad,Fresh salad with olives feta cheese and vinaigrette,200
+69,7,Tiramisu,Classic Italian dessert with layers of coffee-soaked ladyfingers,250
+70,7,Chocolate Fondant,Warm chocolate cake with a gooey chocolate center,300
+71,8,Seekh Kebab,Spicy minced meat skewers grilled to perfection,300
+72,8,Murgh Malai Tikka,Creamy chicken kebabs marinated in spices,350
+73,8,Tandoori Prawns,Marinated prawns grilled in a tandoor oven,400
+74,8,Veg Seekh Kebab,Spicy minced vegetable skewers grilled to perfection,250
+75,8,Paneer Tikka,Grilled cubes of paneer marinated in spices,300
+76,8,Fish Tikka,Marinated fish fillets grilled to perfection,350
+77,8,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,450
+78,8,Mutton Rogan Josh,Tender mutton cooked in a rich gravy,500
+79,8,Butter Naan,Soft and fluffy Indian bread,50
+80,8,Gulab Jamun,Deep-fried milk solids soaked in sugar syrup,150
+81,9,Sambar Vada,Deep-fried lentil dumplings soaked in sambar,200
+82,9,Pongal,Traditional South Indian rice and lentil dish,250
+83,9,Chicken 65,Spicy deep-fried chicken,300
+84,9,Paneer Butter Masala,Paneer cubes in a creamy tomato-based gravy,350
+85,9,Fish Curry,Fresh fish cooked in tangy gravy,400
+86,9,Masala Dosa,Crispy crepe filled with spiced potato filling,200
+87,9,Chapati and Veg Curry,Whole wheat flatbread served with vegetable curry,250
+88,9,Veg Pulao,Fragrant rice cooked with vegetables,300
+89,9,Gajar Ka Halwa,Sweet dessert made from carrots,200
+90,9,Filter Coffee,South Indian style strong coffee,50
+91,10,Grilled Fish,Fresh fish fillet grilled to perfection,350
+92,10,Beef Steak,Tender beef steak cooked to your liking,450
+93,10,Grilled Chicken Salad,Fresh mixed greens topped with grilled chicken,300
+94,10,Chicken Wings,Spicy chicken wings served with dipping sauce,250
+95,10,Caesar Salad,Crisp romaine lettuce with croutons and Caesar dressing,200
+96,10,Pasta Primavera,Pasta with fresh vegetables in a light cream sauce,300
+97,10,Margarita Pizza,Classic pizza with tomato mozzarella and basil,250
+98,10,Tiramisu,Classic Italian dessert with layers of coffee-soaked ladyfingers,250
+99,10,Chocolate Brownie,Warm chocolate brownie served with ice cream,200
+100,10,Mojito,Refreshing lime and mint cocktail,150
+101,11,Tandoori Chicken,Marinated chicken cooked in a tandoor oven,350
+102,11,Barbecue Wings,Grilled chicken wings with barbecue sauce,300
+103,11,Paneer Tikka,Grilled cubes of paneer marinated in spices,250
+104,11,Veg Seekh Kebab,Spicy minced vegetable skewers grilled to perfection,200
+105,11,Fish Tikka,Marinated fish fillets grilled to perfection,400
+106,11,Grilled Prawns,Skewered prawns grilled with spices,450
+107,11,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,450
+108,11,Chicken Fried Rice,Stir-fried rice with chicken and vegetables,300
+109,11,Butter Naan,Soft and fluffy Indian bread,50
+110,11,Gulab Jamun,Deep-fried milk solids soaked in sugar syrup,150
+111,12,Idli,Vegetarian steamed rice cakes,100
+112,12,Vada,Deep-fried lentil donuts,100
+113,12,Dosa,Crispy crepe made from fermented rice and lentil batter,150
+114,12,Pongal,Traditional South Indian rice and lentil dish,200
+115,12,Masala Dosa,Crispy crepe filled with spiced potato filling,200
+116,12,Rava Idli,Steamed semolina cakes,150
+117,12,Upma,Semolina cooked with vegetables and spices,150
+118,12,Filter Coffee,South Indian style strong coffee,50
+119,12,Poori Bhaji,Deep-fried bread served with potato curry,200
+120,12,Sweet Pongal,Sweet rice and lentil dish flavored with jaggery and cardamom,200
+121,13,Chettinad Chicken,Spicy chicken curry with Chettinad spices,400
+122,13,Meen Kuzhambu,Tangy fish curry with tamarind and spices,450
+123,13,Veg Biryani,Fragrant rice cooked with mixed vegetables,300
+124,13,Puliyodharai,Tamarind rice flavored with spices,250
+125,13,Paruppu Vadai,Crispy lentil fritters,150
+126,13,Chicken 65,Spicy deep-fried chicken,350
+127,13,Mutton Curry,Slow-cooked mutton in a rich gravy,500
+128,13,Curd Rice,Cooled rice mixed with yogurt and tempered with spices,200
+129,13,Panner Masala,Paneer cubes in a creamy tomato-based gravy,350
+130,13,Payasam,Rice pudding with milk and jaggery,200
+131,14,Hot and Sour Soup,Spicy and tangy Chinese soup,200
+132,14,Spring Rolls,Crispy fried rolls filled with vegetables,150
+133,14,Schezwan Noodles,Spicy noodles with vegetables and sauce,250
+134,14,Manchurian Balls,Fried vegetable balls in a tangy sauce,200
+135,14,Chilli Chicken,Spicy chicken stir-fry with peppers and onions,300
+136,14,Prawn Fried Rice,Stir-fried rice with prawns and vegetables,350
+137,14,Szechuan Fish,Spicy fish stir-fry with Szechuan sauce,400
+138,14,Veg Manchurian,Fried vegetable balls in a tangy sauce,250
+139,14,Mixed Hakka Noodles,Hakka noodles tossed with assorted vegetables,200
+140,14,Honey Chilli Potato,Crispy fried potatoes in a sweet and spicy sauce,200
+141,15,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,450
+142,15,Mutton Biryani,Fragrant rice cooked with tender mutton pieces,500
+143,15,Chettinad Chicken Curry,Spicy chicken curry with Chettinad spices,400
+144,15,Chicken 65,Spicy deep-fried chicken,350
+145,15,Fish Curry,Fresh fish cooked in tangy gravy,400
+146,15,Parotta,Layered flatbread served with curry,100
+147,15,Egg Curry,Boiled eggs cooked in a spiced gravy,250
+148,15,Veg Pulao,Fragrant rice cooked with mixed vegetables,300
+149,15,Pongal,Traditional South Indian rice and lentil dish,200
+150,15,Filter Coffee,South Indian style strong coffee,50
+151,16,Seafood Platter,Assorted seafood served with dipping sauces,500
+152,16,Grilled Fish,Fresh fish fillet grilled to perfection,400
+153,16,Steak Au Poivre,Peppercorn-crusted steak served with a creamy sauce,550
+154,16,Caesar Salad,Crisp romaine lettuce with croutons and Caesar dressing,250
+155,16,Mushroom Risotto,Creamy risotto with sautéed mushrooms,300
+156,16,Bruschetta,Toasted bread topped with tomatoes basil and garlic,150
+157,16,Tiramisu,Classic Italian dessert with layers of coffee-soaked ladyfingers,250
+158,16,Chocolate Fondant,Warm chocolate cake with a gooey chocolate center,300
+159,16,Lemon Sorbet,Refreshing lemon-flavored sorbet,200
+160,16,Tropical Fruit Platter,Assorted fresh fruits served with honey drizzle,200
+161,17,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,450
+162,17,Mutton Biryani,Fragrant rice cooked with tender mutton pieces,500
+163,17,Chicken 65,Spicy deep-fried chicken,350
+164,17,Mutton Chukka,Tender mutton cooked with spices,400
+165,17,Fish Curry,Fresh fish cooked in tangy gravy,400
+166,17,Parotta,Layered flatbread served with curry,100
+167,17,Chicken Fry,Crispy fried chicken,300
+168,17,Veg Pulao,Fragrant rice cooked with mixed vegetables,300
+169,17,Pongal,Traditional South Indian rice and lentil dish,200
+170,17,Filter Coffee,South Indian style strong coffee,50
+171,18,Shawarma,Grilled meat wrapped in flatbread with veggies and sauce,250
+172,18,Kebab Platter,Assorted kebabs served with dips,300
+173,18,Falafel,Crispy fried chickpea balls,200
+174,18,Hummus,Chickpea dip with tahini olive oil and lemon juice,150
+175,18,Baklava,Sweet pastry made of layers of filo filled with nuts and honey,200
+176,18,Mixed Grill,Assorted grilled meats served with rice and salad,400
+177,18,Chicken Shawarma Wrap,Grilled chicken wrapped in flatbread with veggies and sauce,250
+178,18,Falafel Wrap,Crispy falafel wrapped in flatbread with veggies and sauce,200
+179,18,Baba Ganoush,Smoky eggplant dip with tahini and garlic,150
+180,18,Moutabal,Smoky eggplant dip similar to baba ganoush,150
+181,19,Original Recipe Chicken,Crispy fried chicken with secret blend of herbs and spices,250
+182,19,Zinger Burger,Spicy fried chicken fillet in a burger with lettuce and mayo,300
+183,19,Chicken Popcorn,Crispy bite-sized chicken pieces,150
+184,19,Twister Wrap,Fried chicken strips lettuce and mayo wrapped in a tortilla,200
+185,19,Chicken Bucket,Assorted pieces of fried chicken,400
+186,19,Corn on the Cob,Grilled corn brushed with butter and spices,100
+187,19,Coleslaw,Shredded cabbage and carrot salad in a creamy dressing,100
+188,19,Mashed Potatoes,Creamy mashed potatoes seasoned with herbs,150
+189,19,Chocolate Krusher,Ice-cold chocolate drink with crushed ice,200
+190,19,Soft Serve Ice Cream,Vanilla soft serve ice cream,50
+191,20,Margherita Pizza,Classic pizza with tomato mozzarella and basil,250
+192,20,Pepperoni Pizza,Pizza topped with spicy pepperoni slices,300
+193,20,Veggie Supreme Pizza,Pizza topped with assorted vegetables,300
+194,20,Chicken Supreme Pizza,Pizza topped with chicken and assorted vegetables,350
+195,20,Extravaganzza Pizza,Pizza loaded with various toppings,400
+196,20,Pasta Alfredo,Creamy pasta with Parmesan cheese sauce,250
+197,20,Pasta Arrabbiata,Spicy tomato-based pasta sauce,250
+198,20,Garlic Bread,Toasted bread with garlic and butter,150
+199,20,Cheesy Breadsticks,Soft breadsticks with melted cheese,200
+200,20,Tiramisu,Classic Italian dessert with layers of coffee-soaked ladyfingers,250
+201,21,Chettinad Chicken,Spicy chicken curry with Chettinad spices,400
+202,21,Meen Kuzhambu,Tangy fish curry with tamarind and spices,450
+203,21,Veg Biryani,Fragrant rice cooked with mixed vegetables,300
+204,21,Puliyodharai,Tamarind rice flavored with spices,250
+205,21,Paruppu Vadai,Crispy lentil fritters,150
+206,21,Chicken 65,Spicy deep-fried chicken,350
+207,21,Mutton Curry,Slow-cooked mutton in a rich gravy,500
+208,21,Curd Rice,Cooled rice mixed with yogurt and tempered with spices,200
+209,21,Panner Masala,Paneer cubes in a creamy tomato-based gravy,350
+210,21,Payasam,Rice pudding with milk and jaggery,200
+211,22,Chicken Biryani,Flavorful rice cooked with tender chicken pieces,300
+212,22,Mutton Biryani,Fragrant rice cooked with succulent mutton pieces,350
+213,22,Egg Biryani,Fragrant rice cooked with boiled eggs and spices,250
+214,22,Veg Biryani,Fragrant rice cooked with mixed vegetables,200
+215,22,Chicken 65,Spicy deep-fried chicken,300
+216,22,Chilli Chicken,Spicy chicken stir-fry with peppers and onions,350
+217,22,Paneer Butter Masala,Paneer cubes in a creamy tomato-based gravy,250
+218,22,Veg Pulao,Fragrant rice cooked with mixed vegetables,200
+219,22,Parotta,Layered flatbread served with curry,100
+220,22,Filter Coffee,South Indian style strong coffee,50
+221,23,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,300
+222,23,Mutton Biryani,Fragrant rice cooked with tender mutton pieces,350
+223,23,Egg Biryani,Fragrant rice cooked with boiled eggs and spices,250
+224,23,Fish Biryani,Fragrant rice cooked with fish pieces and spices,400
+225,23,Chicken Fry,Crispy fried chicken,300
+226,23,Fish Fry,Crispy fried fish,350
+227,23,Prawn Curry,Spicy curry made with succulent prawns,400
+228,23,Mutton Chukka,Tender mutton cooked with spices,350
+229,23,Parotta,Layered flatbread served with curry,100
+230,23,Filter Coffee,South Indian style strong coffee,50
+231,24,Ghee Masala Dosa,Crispy crepe filled with spiced potato filling and ghee,200
+232,24,Chicken Sukka,Dry chicken curry with coconut and spices,300
+233,24,Gobi Manchurian,Dry cauliflower florets tossed in spicy sauce,250
+234,24,Veg Pulav,Fragrant rice cooked with mixed vegetables,200
+235,24,Paneer Butter Masala,Paneer cubes in a creamy tomato-based gravy,250
+236,24,Mutton Biryani,Fragrant rice cooked with tender mutton pieces,350
+237,24,Masala Vada,Spicy and crispy lentil fritters,150
+238,24,Mysore Masala Dosa,Crispy crepe filled with spicy chutney and potato filling,200
+239,24,Filter Coffee,South Indian style strong coffee,50
+240,24,Mango Lassi,Refreshing yogurt drink with mango flavor,100
+241,25,Chocolate Ice Cream,Scoops of creamy chocolate ice cream,150
+242,25,Vanilla Ice Cream,Scoops of creamy vanilla ice cream,150
+243,25,Strawberry Ice Cream,Scoops of creamy strawberry ice cream,150
+244,25,Mint Chocolate Chip Ice Cream,Scoops of creamy mint ice cream with chocolate chips,200
+245,25,Cookies and Cream Ice Cream,Scoops of creamy vanilla ice cream with cookie crumbles,200
+246,25,Hot Fudge Sundae,Vanilla ice cream topped with hot fudge sauce and whipped cream,250
+247,25,Banana Split,Ice cream dessert with banana whipped cream and toppings,300
+248,25,Chocolate Milkshake,Thick and creamy chocolate-flavored milkshake,200
+249,25,Strawberry Milkshake,Thick and creamy strawberry-flavored milkshake,200
+250,25,Vanilla Milkshake,Thick and creamy vanilla-flavored milkshake,200
+251,26,Veg Biryani,Fragrant rice cooked with mixed vegetables,250
+252,26,Paneer Biryani,Fragrant rice cooked with paneer cubes and spices,300
+253,26,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,300
+254,26,Mutton Biryani,Fragrant rice cooked with tender mutton pieces,350
+255,26,Veg Kebab Platter,Assorted vegetable kebabs served with dips,200
+256,26,Chicken Kebab Platter,Assorted chicken kebabs served with dips,300
+257,26,Mutton Kebab Platter,Assorted mutton kebabs served with dips,350
+258,26,Tandoori Roti,Whole wheat bread cooked in a tandoor oven,50
+259,26,Gulab Jamun,Deep-fried milk solids soaked in sugar syrup,100
+260,26,Mango Lassi,Refreshing yogurt drink with mango flavor,150
+261,27,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,300
+262,27,Mutton Biryani,Fragrant rice cooked with tender mutton pieces,350
+263,27,Egg Biryani,Fragrant rice cooked with boiled eggs and spices,250
+264,27,Veg Biryani,Fragrant rice cooked with mixed vegetables,200
+265,27,Chicken Fry,Crispy fried chicken,300
+266,27,Fish Fry,Crispy fried fish,350
+267,27,Prawn Curry,Spicy curry made with succulent prawns,400
+268,27,Mutton Chukka,Tender mutton cooked with spices,350
+269,27,Parotta,Layered flatbread served with curry,100
+270,27,Filter Coffee,South Indian style strong coffee,50
+271,28,Arabian Mixed Grill,Assorted grilled meats and kebabs served with rice and salad,400
+272,28,Shish Tawook,Grilled chicken skewers marinated in yogurt and spices,250
+273,28,Kibbeh,Deep-fried bulgur and minced meat croquettes,200
+274,28,Hummus,Chickpea dip with tahini olive oil and lemon juice,150
+275,28,Baba Ganoush,Smoky eggplant dip with tahini and garlic,150
+276,28,Falafel,Crispy fried chickpea balls,200
+277,28,Fattoush,Levantine salad made with mixed greens and crispy bread,200
+278,28,Baklava,Sweet pastry made of layers of filo filled with nuts and honey,200
+279,28,Arabic Coffee,Traditional Middle Eastern coffee,100
+280,28,Date Milkshake,Milkshake made with dates and milk,200
+281,29,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,300
+282,29,Mutton Biryani,Fragrant rice cooked with tender mutton pieces,350
+283,29,Egg Biryani,Fragrant rice cooked with boiled eggs and spices,250
+284,29,Veg Biryani,Fragrant rice cooked with mixed vegetables,200
+285,29,Chicken Fry,Crispy fried chicken,300
+286,29,Fish Fry,Crispy fried fish,350
+287,29,Prawn Curry,Spicy curry made with succulent prawns,400
+288,29,Mutton Chukka,Tender mutton cooked with spices,350
+289,29,Parotta,Layered flatbread served with curry,100
+290,29,Filter Coffee,South Indian style strong coffee,50
+291,30,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,300
+292,30,Mutton Biryani,Fragrant rice cooked with tender mutton pieces,350
+293,30,Egg Biryani,Fragrant rice cooked with boiled eggs and spices,250
+294,30,Veg Biryani,Fragrant rice cooked with mixed vegetables,200
+295,30,Chicken Fry,Crispy fried chicken,300
+296,30,Fish Fry,Crispy fried fish,350
+297,30,Prawn Curry,Spicy curry made with succulent prawns,400
+298,30,Mutton Chukka,Tender mutton cooked with spices,350
+299,30,Parotta,Layered flatbread served with curry,100
+300,30,Filter Coffee,South Indian style strong coffee,50
+301,31,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,300
+302,31,Mutton Biryani,Fragrant rice cooked with tender mutton pieces,350
+303,31,Egg Biryani,Fragrant rice cooked with boiled eggs and spices,250
+304,31,Veg Biryani,Fragrant rice cooked with mixed vegetables,200
+305,31,Chicken Fry,Crispy fried chicken,300
+306,31,Fish Fry,Crispy fried fish,350
+307,31,Prawn Curry,Spicy curry made with succulent prawns,400
+308,31,Mutton Chukka,Tender mutton cooked with spices,350
+309,31,Parotta,Layered flatbread served with curry,100
+310,31,Filter Coffee,South Indian style strong coffee,50
+311,32,Scoops of Ice Cream,Choice of flavors: Vanilla Chocolate Strawberry,200
+312,32,Ice Cream Cone,Choice of flavors: Vanilla Chocolate Strawberry,150
+313,32,Sundaes,Choice of toppings: nuts chocolate sauce whipped cream,250
+314,32,Milkshakes,Choice of flavors: Chocolate-Vanilla-Strawberry,200
+315,32,Smoothies,Choice of flavors: Mango-Banana-Berry Blast,250
+316,32,Ice Cream Cake,Sponge cake layered with ice cream topped with frosting,300
+317,32,Hot Fudge Sundae,Vanilla ice cream topped with hot fudge sauce and whipped cream,250
+318,32,Banana Split,Ice cream dessert with banana whipped cream and toppings,300
+319,32,Waffle Cone,Ice cream served in a crispy waffle cone,200
+320,32,Frozen Yogurt,Cold and creamy yogurt dessert,200
+321,33,Fresh Juice,Choice of fruits: Orange Apple Watermelon,150
+322,33,Smoothies,Choice of flavors: Mango Banana Berry Blast,250
+323,33,Milkshakes,Choice of flavors: Chocolate Vanilla Strawberry,200
+324,33,Cold Coffee,Chilled coffee beverage with milk and sugar,200
+325,33,Iced Tea,Chilled tea beverage with lemon and sugar,150
+326,33,Lemonade,Refreshing lemon-flavored drink,150
+327,33,Coconut Water,Natural coconut water served in the shell,100
+328,33,Fruit Salad,Fresh assortment of seasonal fruits,200
+329,33,Greek Salad,Fresh salad with tomatoes cucumbers olives and feta cheese,250
+330,33,Caesar Salad,Crisp romaine lettuce with croutons and Caesar dressing,250
+331,34,Mini Tiffin,Assorted South Indian breakfast items,200
+332,34,Idli,Vegetarian steamed rice cakes,100
+333,34,Vada,Deep-fried lentil donuts,100
+334,34,Dosa,Crispy crepe made from fermented rice and lentil batter,150
+335,34,Pongal,Traditional South Indian rice and lentil dish,200
+336,34,Upma,Semolina cooked with vegetables and spices,150
+337,34,Filter Coffee,South Indian style strong coffee,50
+338,34,Poori Bhaji,Deep-fried bread served with potato curry,200
+339,34,Sweet Pongal,Sweet rice and lentil dish flavored with jaggery and cardamom,200
+340,34,Bisi Bele Bath,Spicy rice dish with lentils and vegetables,250
+341,35,Chicken Biryani,Fragrant rice cooked with succulent chicken pieces,300
+342,35,Mutton Biryani,Fragrant rice cooked with tender mutton pieces,350
+343,35,Egg Biryani,Fragrant rice cooked with boiled eggs and spices,250
+344,35,Fish Biryani,Fragrant rice cooked with fish pieces and spices,400
+345,35,Chicken Fry,Crispy fried chicken,300
+346,35,Fish Fry,Crispy fried fish,350
+347,35,Prawn Curry,Spicy curry made with succulent prawns,400
+348,35,Mutton Chukka,Tender mutton cooked with spices,350
+349,35,Parotta,Layered flatbread served with curry,100
+350,35,Filter Coffee,South Indian style strong coffee,50
